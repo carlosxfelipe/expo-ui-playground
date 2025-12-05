@@ -83,7 +83,9 @@ export default function HomeLayout() {
                   isInteractive={true}
                 >
                   <Image
-                    source={{ uri: "https://github.com/betomoedano.png" }}
+                    source={{
+                      uri: "https://avatars.githubusercontent.com/u/85801709?s=400&u=01cce0318ea853ce1a133699bc6b2af1919094d6&v=4",
+                    }}
                     style={{
                       width: 36,
                       height: 36,

@@ -50,8 +50,8 @@ export const initialTasks: Task[] = [
 ];
 
 export const initialProfile: UserProfile = {
-  name: "Beto",
-  username: "@betomoedano",
+  name: "Carlos Felipe Araújo",
+  username: "@carlosxfelipe",
   avatar: "person.fill",
   theme: "#4A90E2",
   profileImageSize: "medium",
