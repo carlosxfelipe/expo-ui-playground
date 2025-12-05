@@ -58,17 +58,17 @@ export default function HomeLayout() {
           headerBlurEffect: isGlassAvailable ? undefined : blurEffect,
           title: "Home",
           unstable_headerLeftItems: (props) => [
-            {
-              type: "button",
-              label: "Add",
-              icon: {
-                name: "plus",
-                type: "sfSymbol",
-              },
-              variant: "done",
-              onPress: handleAddItem,
-              accessibilityLabel: "Add new item",
-            },
+            // {
+            //   type: "button",
+            //   label: "Add",
+            //   icon: {
+            //     name: "plus",
+            //     type: "sfSymbol",
+            //   },
+            //   variant: "done",
+            //   onPress: handleAddItem,
+            //   accessibilityLabel: "Add new item",
+            // },
             {
               type: "custom",
               element: (
