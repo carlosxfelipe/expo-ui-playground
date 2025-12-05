@@ -112,10 +112,10 @@ export default function HomeLayout() {
             {
               type: "menu",
               variant: "prominent",
-              // icon: {
-              //   name: "ellipsis",
-              //   type: "sfSymbol",
-              // },
+              icon: {
+                name: "ellipsis",
+                type: "sfSymbol",
+              },
               label: "Options",
               menu: {
                 title: "Home Options",
